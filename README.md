@@ -1,1 +1,1 @@
-Test repository
+To run tests use 'pytest tests'
